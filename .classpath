@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Documents/SametimeFileTransfers/extentreports-2.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/testng-xslt-maven-plugin-test-0.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arindams621/Desktop/downloaded framework/Training/WDDF/JarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
